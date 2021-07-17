@@ -6,9 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
           <List></List>
-        </p>
       </header>
     </div>
   );
